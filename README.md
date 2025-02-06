@@ -1,8 +1,10 @@
 # ✊📄✂️ Jogo Pedra, Papel e Tesoura  
 
+## 📸 Demonstração do Jogo  
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Imagem+do+Jogo" alt="Jogo Pedra, Papel e Tesoura" width="600"/>
+  <img src="screenshot.png" alt="Jogo Pedra, Papel e Tesoura" width="600"/>
 </div>
+
 
 ## 📌 Sobre o Projeto  
 O **Pedra, Papel e Tesoura** é um jogo clássico desenvolvido com **HTML, CSS e JavaScript**. O objetivo é simples: escolha entre **Pedra (✊), Papel (📄) ou Tesoura (✂️)** e desafie o computador!  
