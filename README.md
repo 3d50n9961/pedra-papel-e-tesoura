@@ -4,6 +4,10 @@
 <div align="center">
   <img src="screenshot.png" alt="Jogo Pedra, Papel e Tesoura" width="600"/>
 </div>
+## 🌍 Acesse Online 🔗
+
+Você pode testar a ferramenta diretamente pelo GitHub Pages:<a href="https://3d50n9961.github.io/pedra-papel-e-tesoura/" style="text-decoration: none;display:none;"> 👉Clique aqui para acessar!</a>
+ 
 
 
 ## 📌 Sobre o Projeto  
